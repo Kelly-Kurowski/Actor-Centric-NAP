@@ -1,0 +1,536 @@
+dataset,prefix_length,target_activity,total_samples,train_samples,test_samples
+BPIC2013,10,Completed,70,58,12
+BPIC2013,10,Queued,145,111,34
+BPIC2013,10,Accepted,481,387,94
+BPIC2013,20,Completed,64,51,13
+BPIC2013,20,Queued,98,77,21
+BPIC2013,20,Accepted,336,270,66
+BPIC2013,30,Completed,56,49,7
+BPIC2013,30,Queued,69,49,20
+BPIC2013,30,Accepted,271,218,53
+BPIC2013,40,Completed,46,34,12
+BPIC2013,40,Queued,70,52,18
+BPIC2013,40,Accepted,221,183,38
+BPIC2013,50,Completed,37,31,6
+BPIC2013,50,Queued,56,44,12
+BPIC2013,50,Accepted,198,157,41
+BPIC2013,75,Completed,30,24,6
+BPIC2013,75,Queued,44,33,11
+BPIC2013,75,Accepted,148,120,28
+BPIC2013,100,Completed,23,20,3
+BPIC2013,100,Queued,29,22,7
+BPIC2013,100,Accepted,126,100,26
+BPIC2013,125,Queued,20,13,7
+BPIC2013,125,Completed,28,22,6
+BPIC2013,125,Accepted,99,82,17
+BPIC2013,150,Queued,23,17,6
+BPIC2013,150,Completed,24,20,4
+BPIC2013,150,Accepted,71,57,14
+BPIC2017,100,O_Refused,1,1,0
+BPIC2017,100,O_Sent (online only),1,1,0
+BPIC2017,100,O_Accepted,2,1,1
+BPIC2017,100,A_Validating,2,2,0
+BPIC2017,100,W_Assess potential fraud,2,2,0
+BPIC2017,100,A_Complete,2,1,1
+BPIC2017,100,A_Pending,2,2,0
+BPIC2017,100,A_Create Application,3,3,0
+BPIC2017,100,O_Sent (mail and online),3,2,1
+BPIC2017,100,A_Concept,4,3,1
+BPIC2017,100,O_Create Offer,5,5,0
+BPIC2017,100,O_Returned,5,4,1
+BPIC2017,100,A_Accepted,7,6,1
+BPIC2017,100,O_Created,7,6,1
+BPIC2017,100,W_Call incomplete files,10,8,2
+BPIC2017,100,W_Validate application,20,14,6
+BPIC2017,100,W_Call after offers,27,19,8
+BPIC2017,100,W_Complete application,38,32,6
+BPIC2017,150,A_Incomplete,1,1,0
+BPIC2017,150,A_Pending,1,1,0
+BPIC2017,150,A_Denied,1,1,0
+BPIC2017,150,W_Assess potential fraud,2,1,1
+BPIC2017,150,A_Create Application,2,1,1
+BPIC2017,150,O_Create Offer,3,3,0
+BPIC2017,150,O_Returned,3,1,2
+BPIC2017,150,A_Validating,3,2,1
+BPIC2017,150,A_Concept,3,3,0
+BPIC2017,150,W_Handle leads,4,4,0
+BPIC2017,150,O_Accepted,4,4,0
+BPIC2017,150,O_Sent (mail and online),5,4,1
+BPIC2017,150,A_Complete,7,6,1
+BPIC2017,150,O_Created,7,6,1
+BPIC2017,150,W_Call incomplete files,9,8,1
+BPIC2017,150,A_Accepted,10,7,3
+BPIC2017,150,W_Validate application,15,11,4
+BPIC2017,150,W_Call after offers,27,22,5
+BPIC2017,150,W_Complete application,31,24,7
+BPIC2017,200,O_Accepted,1,1,0
+BPIC2017,200,A_Pending,1,1,0
+BPIC2017,200,W_Assess potential fraud,1,0,1
+BPIC2017,200,A_Incomplete,1,1,0
+BPIC2017,200,W_Handle leads,2,2,0
+BPIC2017,200,A_Concept,2,2,0
+BPIC2017,200,A_Validating,4,0,4
+BPIC2017,200,O_Returned,4,3,1
+BPIC2017,200,A_Complete,4,3,1
+BPIC2017,200,O_Create Offer,6,3,3
+BPIC2017,200,O_Sent (mail and online),8,7,1
+BPIC2017,200,W_Call incomplete files,9,8,1
+BPIC2017,200,O_Created,10,7,3
+BPIC2017,200,A_Accepted,11,10,1
+BPIC2017,200,W_Validate application,21,17,4
+BPIC2017,200,W_Call after offers,23,19,4
+BPIC2017,200,W_Complete application,30,26,4
+BPIC2017,400,A_Submitted,1,1,0
+BPIC2017,400,W_Handle leads,1,1,0
+BPIC2017,400,O_Cancelled,1,1,0
+BPIC2017,400,A_Create Application,2,2,0
+BPIC2017,400,A_Incomplete,3,2,1
+BPIC2017,400,O_Refused,3,2,1
+BPIC2017,400,O_Accepted,3,3,0
+BPIC2017,400,W_Call incomplete files,3,3,0
+BPIC2017,400,W_Assess potential fraud,3,2,1
+BPIC2017,400,A_Complete,3,3,0
+BPIC2017,400,A_Pending,4,3,1
+BPIC2017,400,O_Returned,4,0,4
+BPIC2017,400,A_Validating,5,4,1
+BPIC2017,400,A_Accepted,5,5,0
+BPIC2017,400,O_Created,7,6,1
+BPIC2017,400,O_Create Offer,8,6,2
+BPIC2017,400,O_Sent (mail and online),10,9,1
+BPIC2017,400,W_Validate application,15,12,3
+BPIC2017,400,W_Call after offers,26,20,6
+BPIC2017,400,W_Complete application,28,23,5
+BPIC2017,800,A_Denied,1,1,0
+BPIC2017,800,O_Cancelled,1,1,0
+BPIC2017,800,O_Sent (online only),1,1,0
+BPIC2017,800,O_Refused,1,1,0
+BPIC2017,800,W_Assess potential fraud,1,1,0
+BPIC2017,800,O_Accepted,2,2,0
+BPIC2017,800,A_Create Application,2,2,0
+BPIC2017,800,A_Validating,4,3,1
+BPIC2017,800,O_Returned,4,4,0
+BPIC2017,800,A_Concept,5,3,2
+BPIC2017,800,O_Created,5,5,0
+BPIC2017,800,O_Sent (mail and online),6,5,1
+BPIC2017,800,O_Create Offer,7,3,4
+BPIC2017,800,A_Accepted,7,5,2
+BPIC2017,800,A_Complete,10,9,1
+BPIC2017,800,W_Call incomplete files,12,10,2
+BPIC2017,800,W_Call after offers,17,15,2
+BPIC2017,800,W_Validate application,17,10,7
+BPIC2017,800,W_Complete application,24,20,4
+BPIC2017,1000,A_Incomplete,1,1,0
+BPIC2017,1000,A_Create Application,1,1,0
+BPIC2017,1000,O_Cancelled,1,1,0
+BPIC2017,1000,A_Concept,2,1,1
+BPIC2017,1000,A_Pending,2,2,0
+BPIC2017,1000,W_Handle leads,2,1,1
+BPIC2017,1000,O_Sent (mail and online),3,3,0
+BPIC2017,1000,A_Complete,3,2,1
+BPIC2017,1000,A_Validating,4,2,2
+BPIC2017,1000,O_Returned,4,4,0
+BPIC2017,1000,A_Accepted,4,3,1
+BPIC2017,1000,O_Create Offer,8,8,0
+BPIC2017,1000,W_Call incomplete files,9,9,0
+BPIC2017,1000,O_Created,9,7,2
+BPIC2017,1000,W_Validate application,19,13,6
+BPIC2017,1000,W_Complete application,24,19,5
+BPIC2017,1000,W_Call after offers,28,22,6
+BPIC2017,1200,A_Submitted,1,0,1
+BPIC2017,1200,A_Pending,1,1,0
+BPIC2017,1200,A_Cancelled,1,0,1
+BPIC2017,1200,O_Refused,1,1,0
+BPIC2017,1200,O_Accepted,2,2,0
+BPIC2017,1200,A_Incomplete,3,1,2
+BPIC2017,1200,A_Validating,3,3,0
+BPIC2017,1200,A_Concept,3,2,1
+BPIC2017,1200,O_Create Offer,3,3,0
+BPIC2017,1200,A_Accepted,4,3,1
+BPIC2017,1200,O_Sent (mail and online),5,4,1
+BPIC2017,1200,O_Created,5,5,0
+BPIC2017,1200,A_Complete,6,5,1
+BPIC2017,1200,W_Call incomplete files,7,7,0
+BPIC2017,1200,W_Call after offers,20,16,4
+BPIC2017,1200,W_Validate application,23,19,4
+BPIC2017,1200,W_Complete application,33,24,9
+BPIC2017,1400,W_Handle leads,1,0,1
+BPIC2017,1400,A_Cancelled,1,1,0
+BPIC2017,1400,O_Sent (online only),1,1,0
+BPIC2017,1400,A_Create Application,2,2,0
+BPIC2017,1400,A_Complete,2,1,1
+BPIC2017,1400,A_Incomplete,3,2,1
+BPIC2017,1400,O_Cancelled,3,3,0
+BPIC2017,1400,O_Returned,4,1,3
+BPIC2017,1400,O_Create Offer,5,4,1
+BPIC2017,1400,O_Sent (mail and online),6,4,2
+BPIC2017,1400,O_Created,7,6,1
+BPIC2017,1400,A_Accepted,8,7,1
+BPIC2017,1400,W_Call incomplete files,16,13,3
+BPIC2017,1400,W_Complete application,17,15,2
+BPIC2017,1400,W_Call after offers,20,15,5
+BPIC2017,1400,W_Validate application,21,18,3
+BPIC2017,1500,O_Accepted,1,1,0
+BPIC2017,1500,A_Pending,1,1,0
+BPIC2017,1500,O_Refused,1,1,0
+BPIC2017,1500,A_Create Application,1,1,0
+BPIC2017,1500,O_Sent (online only),2,1,1
+BPIC2017,1500,A_Complete,2,1,1
+BPIC2017,1500,O_Cancelled,2,2,0
+BPIC2017,1500,W_Handle leads,3,2,1
+BPIC2017,1500,A_Incomplete,3,3,0
+BPIC2017,1500,O_Returned,3,3,0
+BPIC2017,1500,A_Concept,4,4,0
+BPIC2017,1500,O_Sent (mail and online),4,3,1
+BPIC2017,1500,A_Validating,5,4,1
+BPIC2017,1500,O_Create Offer,5,4,1
+BPIC2017,1500,O_Created,5,4,1
+BPIC2017,1500,A_Accepted,7,4,3
+BPIC2017,1500,W_Call incomplete files,8,7,1
+BPIC2017,1500,W_Call after offers,14,12,2
+BPIC2017,1500,W_Validate application,20,15,5
+BPIC2017,1500,W_Complete application,23,18,5
+BPIC2017,2000,A_Incomplete,1,1,0
+BPIC2017,2000,O_Cancelled,1,1,0
+BPIC2017,2000,O_Returned,2,2,0
+BPIC2017,2000,A_Pending,2,2,0
+BPIC2017,2000,O_Accepted,4,1,3
+BPIC2017,2000,A_Validating,4,3,1
+BPIC2017,2000,O_Created,4,3,1
+BPIC2017,2000,O_Create Offer,5,4,1
+BPIC2017,2000,A_Accepted,6,6,0
+BPIC2017,2000,O_Sent (mail and online),8,8,0
+BPIC2017,2000,W_Validate application,13,9,4
+BPIC2017,2000,W_Complete application,15,12,3
+BPIC2017,2000,W_Call incomplete files,15,13,2
+BPIC2017,2000,W_Call after offers,24,18,6
+BPIC2018,100,mail income,1,1,0
+BPIC2018,100,withdraw,1,1,0
+BPIC2018,100,take original document,1,1,0
+BPIC2018,100,plan,1,1,0
+BPIC2018,100,begin preparations,1,1,0
+BPIC2018,100,restart editing,1,1,0
+BPIC2018,100,performed,1,1,0
+BPIC2018,100,revoke decision,2,2,0
+BPIC2018,100,finish preparations,2,2,0
+BPIC2018,100,begin payment,2,2,0
+BPIC2018,100,finish pre-check,3,3,0
+BPIC2018,100,begin editing,6,3,3
+BPIC2018,100,calculate,6,4,2
+BPIC2018,100,decide,7,6,1
+BPIC2018,100,initialize,8,7,1
+BPIC2018,100,check,9,8,1
+BPIC2018,100,insert document,18,11,7
+BPIC2018,100,finish editing,31,26,5
+BPIC2018,100,save,53,42,11
+BPIC2018,150,mail valid,1,1,0
+BPIC2018,150,performed offline,1,1,0
+BPIC2018,150,performed,1,1,0
+BPIC2018,150,take original document,1,0,1
+BPIC2018,150,finish pre-check,1,0,1
+BPIC2018,150,finish preparations,1,1,0
+BPIC2018,150,revoke decision,2,2,0
+BPIC2018,150,begin payment,2,1,1
+BPIC2018,150,calculate,5,3,2
+BPIC2018,150,initialize,6,6,0
+BPIC2018,150,check,8,7,1
+BPIC2018,150,decide,9,9,0
+BPIC2018,150,begin editing,12,10,2
+BPIC2018,150,insert document,17,13,4
+BPIC2018,150,finish editing,22,14,8
+BPIC2018,150,save,63,52,11
+BPIC2018,200,revoke decision,1,1,0
+BPIC2018,200,mail income,1,1,0
+BPIC2018,200,withdraw,1,0,1
+BPIC2018,200,take original document,1,1,0
+BPIC2018,200,finish payment,1,1,0
+BPIC2018,200,begin payment,1,1,0
+BPIC2018,200,prepare external,1,1,0
+BPIC2018,200,finish pre-check,2,2,0
+BPIC2018,200,performed,2,2,0
+BPIC2018,200,begin editing,4,4,0
+BPIC2018,200,decide,8,8,0
+BPIC2018,200,check,8,8,0
+BPIC2018,200,calculate,8,2,6
+BPIC2018,200,initialize,9,7,2
+BPIC2018,200,insert document,22,18,4
+BPIC2018,200,finish editing,24,19,5
+BPIC2018,200,save,56,44,12
+BPIC2018,400,mail income,1,1,0
+BPIC2018,400,performed offline,1,1,0
+BPIC2018,400,finish payment,1,1,0
+BPIC2018,400,begin payment,1,1,0
+BPIC2018,400,plan,1,1,0
+BPIC2018,400,begin admissibility check,1,1,0
+BPIC2018,400,calculate protocol,1,1,0
+BPIC2018,400,finish preparations,1,0,1
+BPIC2018,400,finish pre-check,2,2,0
+BPIC2018,400,revoke decision,2,1,1
+BPIC2018,400,begin preparations,3,2,1
+BPIC2018,400,performed,3,2,1
+BPIC2018,400,begin editing,4,4,0
+BPIC2018,400,initialize,6,6,0
+BPIC2018,400,decide,8,7,1
+BPIC2018,400,check,8,6,2
+BPIC2018,400,insert document,10,8,2
+BPIC2018,400,calculate,11,10,1
+BPIC2018,400,finish editing,18,16,2
+BPIC2018,400,save,59,42,17
+BPIC2018,800,mail valid,1,1,0
+BPIC2018,800,begin admissibility check,1,1,0
+BPIC2018,800,finish payment,1,1,0
+BPIC2018,800,begin payment,1,1,0
+BPIC2018,800,plan,1,1,0
+BPIC2018,800,begin preparations,1,1,0
+BPIC2018,800,check admissibility,1,1,0
+BPIC2018,800,prepare offline,1,1,0
+BPIC2018,800,revoke decision,2,2,0
+BPIC2018,800,performed offline,2,2,0
+BPIC2018,800,performed,2,2,0
+BPIC2018,800,initialize,2,2,0
+BPIC2018,800,insert document,7,6,1
+BPIC2018,800,begin editing,7,6,1
+BPIC2018,800,check,8,5,3
+BPIC2018,800,calculate,9,6,3
+BPIC2018,800,decide,9,7,2
+BPIC2018,800,finish editing,27,19,8
+BPIC2018,800,save,52,43,9
+BPIC2018,1000,mail income,1,1,0
+BPIC2018,1000,check admissibility,1,1,0
+BPIC2018,1000,approve,1,0,1
+BPIC2018,1000,begin preparations,1,1,0
+BPIC2018,1000,prepare offline,1,0,1
+BPIC2018,1000,finish preparations,1,1,0
+BPIC2018,1000,performed,2,1,1
+BPIC2018,1000,begin payment,2,2,0
+BPIC2018,1000,revoke decision,3,2,1
+BPIC2018,1000,initialize,4,3,1
+BPIC2018,1000,insert document,5,4,1
+BPIC2018,1000,check,6,4,2
+BPIC2018,1000,begin editing,8,6,2
+BPIC2018,1000,decide,9,6,3
+BPIC2018,1000,calculate,11,8,3
+BPIC2018,1000,finish editing,21,19,2
+BPIC2018,1000,save,55,46,9
+BPIC2018,1200,finish pre-check,1,1,0
+BPIC2018,1200,mail valid,1,1,0
+BPIC2018,1200,prepare offline,1,1,0
+BPIC2018,1200,performed offline,1,1,0
+BPIC2018,1200,approve,1,0,1
+BPIC2018,1200,check,2,2,0
+BPIC2018,1200,finish preparations,2,2,0
+BPIC2018,1200,revoke decision,2,2,0
+BPIC2018,1200,performed,2,2,0
+BPIC2018,1200,begin payment,2,2,0
+BPIC2018,1200,begin editing,3,2,1
+BPIC2018,1200,initialize,4,3,1
+BPIC2018,1200,insert document,9,8,1
+BPIC2018,1200,calculate,10,9,1
+BPIC2018,1200,decide,11,9,2
+BPIC2018,1200,finish editing,16,14,2
+BPIC2018,1200,save,55,39,16
+BPIC2018,1400,mail income,1,1,0
+BPIC2018,1400,restart editing,1,1,0
+BPIC2018,1400,revoke decision,1,1,0
+BPIC2018,1400,abort payment,1,1,0
+BPIC2018,1400,begin payment,1,1,0
+BPIC2018,1400,prepare external,1,1,0
+BPIC2018,1400,initialize,2,2,0
+BPIC2018,1400,performed,3,3,0
+BPIC2018,1400,calculate,4,3,1
+BPIC2018,1400,insert document,4,4,0
+BPIC2018,1400,check,4,3,1
+BPIC2018,1400,begin editing,8,6,2
+BPIC2018,1400,decide,11,10,1
+BPIC2018,1400,finish editing,19,13,6
+BPIC2018,1400,save,58,45,13
+BPIC2018,1500,mail valid,1,1,0
+BPIC2018,1500,prepare offline,1,1,0
+BPIC2018,1500,revoke decision,1,1,0
+BPIC2018,1500,begin preparations,1,1,0
+BPIC2018,1500,abort payment,1,1,0
+BPIC2018,1500,begin payment,1,1,0
+BPIC2018,1500,finish preparations,1,1,0
+BPIC2018,1500,remove document,1,1,0
+BPIC2018,1500,check,3,2,1
+BPIC2018,1500,performed,3,3,0
+BPIC2018,1500,insert document,5,5,0
+BPIC2018,1500,begin editing,6,4,2
+BPIC2018,1500,initialize,6,3,3
+BPIC2018,1500,calculate,8,6,2
+BPIC2018,1500,decide,9,7,2
+BPIC2018,1500,finish editing,14,11,3
+BPIC2018,1500,save,55,44,11
+BPIC2018,2000,mail valid,1,1,0
+BPIC2018,2000,begin admissibility check,1,1,0
+BPIC2018,2000,abort payment,1,1,0
+BPIC2018,2000,begin payment,1,0,1
+BPIC2018,2000,prepare external,1,1,0
+BPIC2018,2000,check,1,1,0
+BPIC2018,2000,performed offline,1,0,1
+BPIC2018,2000,performed,2,2,0
+BPIC2018,2000,initialize,2,2,0
+BPIC2018,2000,revoke decision,3,2,1
+BPIC2018,2000,finish preparations,3,3,0
+BPIC2018,2000,insert document,7,5,2
+BPIC2018,2000,begin editing,8,5,3
+BPIC2018,2000,calculate,10,7,3
+BPIC2018,2000,decide,11,10,1
+BPIC2018,2000,finish editing,18,14,4
+BPIC2018,2000,save,41,34,7
+BPIC2018,2500,mail income,1,0,1
+BPIC2018,2500,performed offline,1,1,0
+BPIC2018,2500,begin preparations,1,1,0
+BPIC2018,2500,finish pre-check,1,1,0
+BPIC2018,2500,check admissibility,1,1,0
+BPIC2018,2500,plan,1,1,0
+BPIC2018,2500,prepare external,1,1,0
+BPIC2018,2500,performed,2,2,0
+BPIC2018,2500,begin payment,2,2,0
+BPIC2018,2500,revoke decision,3,3,0
+BPIC2018,2500,insert document,3,3,0
+BPIC2018,2500,initialize,5,4,1
+BPIC2018,2500,decide,9,7,2
+BPIC2018,2500,begin editing,10,7,3
+BPIC2018,2500,calculate,12,8,4
+BPIC2018,2500,finish editing,14,10,4
+BPIC2018,2500,save,40,33,7
+BPIC2019,100,Vendor creates invoice,1,1,0
+BPIC2019,100,Receive Order Confirmation,1,1,0
+BPIC2019,100,SRM: Transfer Failed (E.Sys.),1,1,0
+BPIC2019,100,SRM: Awaiting Approval,1,1,0
+BPIC2019,100,Cancel Invoice Receipt,1,0,1
+BPIC2019,100,Change Delivery Indicator,2,1,1
+BPIC2019,100,SRM: Created,3,2,1
+BPIC2019,100,Delete Purchase Order Item,3,1,2
+BPIC2019,100,Cancel Goods Receipt,4,4,0
+BPIC2019,100,Change Approval for Purchase Order,4,4,0
+BPIC2019,100,Clear Invoice,6,6,0
+BPIC2019,100,Remove Payment Block,6,5,1
+BPIC2019,100,Change Quantity,9,3,6
+BPIC2019,100,Change Price,10,7,3
+BPIC2019,100,Record Invoice Receipt,16,15,1
+BPIC2019,100,Create Purchase Requisition Item,43,30,13
+BPIC2019,100,Create Purchase Order Item,97,77,20
+BPIC2019,100,Record Goods Receipt,115,99,16
+BPIC2019,150,Vendor creates invoice,1,1,0
+BPIC2019,150,SRM: Change was Transmitted,1,1,0
+BPIC2019,150,SRM: Complete,1,0,1
+BPIC2019,150,SRM: Awaiting Approval,1,1,0
+BPIC2019,150,Update Order Confirmation,1,1,0
+BPIC2019,150,Cancel Goods Receipt,2,2,0
+BPIC2019,150,Cancel Invoice Receipt,2,1,1
+BPIC2019,150,Change Quantity,3,3,0
+BPIC2019,150,Clear Invoice,5,4,1
+BPIC2019,150,Remove Payment Block,5,4,1
+BPIC2019,150,Change Approval for Purchase Order,5,3,2
+BPIC2019,150,Delete Purchase Order Item,6,6,0
+BPIC2019,150,Change Price,9,5,4
+BPIC2019,150,Record Invoice Receipt,16,13,3
+BPIC2019,150,Create Purchase Requisition Item,32,20,12
+BPIC2019,150,Create Purchase Order Item,94,74,20
+BPIC2019,150,Record Goods Receipt,106,93,13
+BPIC2019,200,Vendor creates invoice,1,1,0
+BPIC2019,200,SRM: Ordered,1,1,0
+BPIC2019,200,Cancel Invoice Receipt,1,1,0
+BPIC2019,200,Receive Order Confirmation,1,1,0
+BPIC2019,200,Change Storage Location,1,1,0
+BPIC2019,200,Delete Purchase Order Item,2,2,0
+BPIC2019,200,Change Delivery Indicator,2,1,1
+BPIC2019,200,Cancel Goods Receipt,4,4,0
+BPIC2019,200,Change Quantity,5,5,0
+BPIC2019,200,Change Approval for Purchase Order,5,3,2
+BPIC2019,200,Remove Payment Block,6,5,1
+BPIC2019,200,Clear Invoice,6,5,1
+BPIC2019,200,Change Price,7,4,3
+BPIC2019,200,Record Invoice Receipt,15,12,3
+BPIC2019,200,Create Purchase Requisition Item,24,17,7
+BPIC2019,200,Create Purchase Order Item,89,68,21
+BPIC2019,200,Record Goods Receipt,96,81,15
+BPIC2019,300,Vendor creates invoice,1,1,0
+BPIC2019,300,Cancel Invoice Receipt,1,1,0
+BPIC2019,300,Receive Order Confirmation,1,1,0
+BPIC2019,300,Change Storage Location,1,1,0
+BPIC2019,300,Cancel Goods Receipt,2,1,1
+BPIC2019,300,Delete Purchase Order Item,2,2,0
+BPIC2019,300,Change Approval for Purchase Order,3,3,0
+BPIC2019,300,Clear Invoice,4,2,2
+BPIC2019,300,Remove Payment Block,4,3,1
+BPIC2019,300,Change Price,5,4,1
+BPIC2019,300,Change Quantity,9,9,0
+BPIC2019,300,Record Invoice Receipt,15,12,3
+BPIC2019,300,Create Purchase Requisition Item,19,15,4
+BPIC2019,300,Create Purchase Order Item,81,61,20
+BPIC2019,300,Record Goods Receipt,83,68,15
+BPIC2019,400,Record Service Entry Sheet,1,1,0
+BPIC2019,400,SRM: Document Completed,1,1,0
+BPIC2019,400,Cancel Invoice Receipt,1,1,0
+BPIC2019,400,Receive Order Confirmation,1,1,0
+BPIC2019,400,Release Purchase Order,1,0,1
+BPIC2019,400,Change Storage Location,1,0,1
+BPIC2019,400,Clear Invoice,2,2,0
+BPIC2019,400,Cancel Goods Receipt,2,2,0
+BPIC2019,400,Change Price,3,3,0
+BPIC2019,400,Delete Purchase Order Item,3,3,0
+BPIC2019,400,Change Quantity,3,2,1
+BPIC2019,400,Change Approval for Purchase Order,3,2,1
+BPIC2019,400,Remove Payment Block,4,3,1
+BPIC2019,400,Record Invoice Receipt,16,12,4
+BPIC2019,400,Create Purchase Requisition Item,19,13,6
+BPIC2019,400,Create Purchase Order Item,70,54,16
+BPIC2019,400,Record Goods Receipt,80,68,12
+BPIC2019,500,Vendor creates invoice,1,1,0
+BPIC2019,500,SRM: In Transfer to Execution Syst.,1,1,0
+BPIC2019,500,Cancel Invoice Receipt,1,1,0
+BPIC2019,500,Receive Order Confirmation,1,0,1
+BPIC2019,500,Change Storage Location,1,1,0
+BPIC2019,500,Remove Payment Block,2,1,1
+BPIC2019,500,Change Delivery Indicator,2,2,0
+BPIC2019,500,Delete Purchase Order Item,2,2,0
+BPIC2019,500,Clear Invoice,3,2,1
+BPIC2019,500,Change Approval for Purchase Order,3,2,1
+BPIC2019,500,Change Price,4,3,1
+BPIC2019,500,Change Quantity,5,4,1
+BPIC2019,500,Record Invoice Receipt,16,13,3
+BPIC2019,500,Create Purchase Requisition Item,16,14,2
+BPIC2019,500,Create Purchase Order Item,59,46,13
+BPIC2019,500,Record Goods Receipt,72,58,14
+BPIC2019,600,Record Service Entry Sheet,1,1,0
+BPIC2019,600,SRM: Awaiting Approval,1,1,0
+BPIC2019,600,Cancel Invoice Receipt,1,1,0
+BPIC2019,600,Delete Purchase Order Item,1,1,0
+BPIC2019,600,Clear Invoice,2,1,1
+BPIC2019,600,Remove Payment Block,3,2,1
+BPIC2019,600,Change Price,4,3,1
+BPIC2019,600,Change Quantity,4,3,1
+BPIC2019,600,Change Approval for Purchase Order,4,3,1
+BPIC2019,600,Create Purchase Requisition Item,13,10,3
+BPIC2019,600,Record Invoice Receipt,15,11,4
+BPIC2019,600,Record Goods Receipt,65,52,13
+BPIC2019,600,Create Purchase Order Item,67,55,12
+BPIC2019,700,Record Service Entry Sheet,1,1,0
+BPIC2019,700,Receive Order Confirmation,1,1,0
+BPIC2019,700,Cancel Invoice Receipt,1,1,0
+BPIC2019,700,Release Purchase Order,1,1,0
+BPIC2019,700,Remove Payment Block,2,1,1
+BPIC2019,700,Delete Purchase Order Item,2,2,0
+BPIC2019,700,Change Approval for Purchase Order,2,2,0
+BPIC2019,700,Clear Invoice,3,2,1
+BPIC2019,700,Change Price,4,3,1
+BPIC2019,700,Change Quantity,9,9,0
+BPIC2019,700,Create Purchase Requisition Item,11,8,3
+BPIC2019,700,Record Invoice Receipt,14,8,6
+BPIC2019,700,Create Purchase Order Item,55,44,11
+BPIC2019,700,Record Goods Receipt,65,53,12
+BPIC2019,800,Record Service Entry Sheet,1,1,0
+BPIC2019,800,Clear Invoice,2,1,1
+BPIC2019,800,Receive Order Confirmation,2,1,1
+BPIC2019,800,Delete Purchase Order Item,2,2,0
+BPIC2019,800,Change Delivery Indicator,2,2,0
+BPIC2019,800,Remove Payment Block,3,1,2
+BPIC2019,800,Change Price,3,2,1
+BPIC2019,800,Change Approval for Purchase Order,4,3,1
+BPIC2019,800,Create Purchase Requisition Item,9,8,1
+BPIC2019,800,Change Quantity,9,7,2
+BPIC2019,800,Record Invoice Receipt,14,10,4
+BPIC2019,800,Record Goods Receipt,53,44,9
+BPIC2019,800,Create Purchase Order Item,54,44,10

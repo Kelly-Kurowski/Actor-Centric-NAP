@@ -1,0 +1,244 @@
+{
+  "best": {
+    "params": {
+      "n_estimators": 500,
+      "min_samples_split": 10,
+      "min_samples_leaf": 2,
+      "max_features": "log2",
+      "max_depth": 20
+    },
+    "cv_accuracy": 0.7010138983823194,
+    "best_index": 5,
+    "cv_folds": 3,
+    "cv_strategy": "StratifiedKFold",
+    "scoring": "accuracy",
+    "tuning_status": "completed",
+    "min_class_count": 51
+  },
+  "candidates": [
+    {
+      "candidate": 6,
+      "params": {
+        "n_estimators": 500,
+        "min_samples_split": 10,
+        "min_samples_leaf": 2,
+        "max_features": "log2",
+        "max_depth": 20
+      },
+      "mean_cv_accuracy": 0.7010138983823194,
+      "std_cv_accuracy": 0.006627529701388386,
+      "mean_train_accuracy": 0.7298954934506076,
+      "rank": 1
+    },
+    {
+      "candidate": 11,
+      "params": {
+        "n_estimators": 200,
+        "min_samples_split": 10,
+        "min_samples_leaf": 1,
+        "max_features": "log2",
+        "max_depth": 10
+      },
+      "mean_cv_accuracy": 0.7010138983823194,
+      "std_cv_accuracy": 0.002497187311093993,
+      "mean_train_accuracy": 0.7562774861682509,
+      "rank": 1
+    },
+    {
+      "candidate": 8,
+      "params": {
+        "n_estimators": 300,
+        "min_samples_split": 10,
+        "min_samples_leaf": 1,
+        "max_features": "log2",
+        "max_depth": 10
+      },
+      "mean_cv_accuracy": 0.6960013670539986,
+      "std_cv_accuracy": 0.008613299077991143,
+      "mean_train_accuracy": 0.7550243533361707,
+      "rank": 3
+    },
+    {
+      "candidate": 13,
+      "params": {
+        "n_estimators": 500,
+        "min_samples_split": 5,
+        "min_samples_leaf": 2,
+        "max_features": 0.5,
+        "max_depth": 10
+      },
+      "mean_cv_accuracy": 0.6959633933318145,
+      "std_cv_accuracy": 0.007698510764883456,
+      "mean_train_accuracy": 0.8869201305149668,
+      "rank": 4
+    },
+    {
+      "candidate": 14,
+      "params": {
+        "n_estimators": 300,
+        "min_samples_split": 10,
+        "min_samples_leaf": 1,
+        "max_features": "sqrt",
+        "max_depth": 40
+      },
+      "mean_cv_accuracy": 0.6959633933318145,
+      "std_cv_accuracy": 0.007698510764883456,
+      "mean_train_accuracy": 0.7939755047997353,
+      "rank": 4
+    },
+    {
+      "candidate": 10,
+      "params": {
+        "n_estimators": 100,
+        "min_samples_split": 5,
+        "min_samples_leaf": 1,
+        "max_features": "log2",
+        "max_depth": 10
+      },
+      "mean_cv_accuracy": 0.6934571276676541,
+      "std_cv_accuracy": 0.0042043787701454656,
+      "mean_train_accuracy": 0.8391970492268408,
+      "rank": 6
+    },
+    {
+      "candidate": 1,
+      "params": {
+        "n_estimators": 100,
+        "min_samples_split": 5,
+        "min_samples_leaf": 5,
+        "max_features": 0.5,
+        "max_depth": 40
+      },
+      "mean_cv_accuracy": 0.6909318751424015,
+      "std_cv_accuracy": 0.007138049759772431,
+      "mean_train_accuracy": 0.7500118220078499,
+      "rank": 7
+    },
+    {
+      "candidate": 3,
+      "params": {
+        "n_estimators": 100,
+        "min_samples_split": 2,
+        "min_samples_leaf": 1,
+        "max_features": 0.5,
+        "max_depth": 10
+      },
+      "mean_cv_accuracy": 0.6884256094782409,
+      "std_cv_accuracy": 0.004672156904627456,
+      "mean_train_accuracy": 0.9509954130609543,
+      "rank": 8
+    },
+    {
+      "candidate": 4,
+      "params": {
+        "n_estimators": 300,
+        "min_samples_split": 5,
+        "min_samples_leaf": 5,
+        "max_features": "sqrt",
+        "max_depth": null
+      },
+      "mean_cv_accuracy": 0.6859383306751727,
+      "std_cv_accuracy": 0.006607482219779663,
+      "mean_train_accuracy": 0.7060197663971248,
+      "rank": 9
+    },
+    {
+      "candidate": 7,
+      "params": {
+        "n_estimators": 300,
+        "min_samples_split": 5,
+        "min_samples_leaf": 2,
+        "max_features": 0.5,
+        "max_depth": 40
+      },
+      "mean_cv_accuracy": 0.6859003569529886,
+      "std_cv_accuracy": 0.010278224701674854,
+      "mean_train_accuracy": 0.8994845604577483,
+      "rank": 10
+    },
+    {
+      "candidate": 12,
+      "params": {
+        "n_estimators": 300,
+        "min_samples_split": 10,
+        "min_samples_leaf": 5,
+        "max_features": "log2",
+        "max_depth": null
+      },
+      "mean_cv_accuracy": 0.6834320650110124,
+      "std_cv_accuracy": 0.005214789012790943,
+      "mean_train_accuracy": 0.6921974748191233,
+      "rank": 11
+    },
+    {
+      "candidate": 16,
+      "params": {
+        "n_estimators": 200,
+        "min_samples_split": 5,
+        "min_samples_leaf": 5,
+        "max_features": "log2",
+        "max_depth": 10
+      },
+      "mean_cv_accuracy": 0.6834320650110124,
+      "std_cv_accuracy": 0.005214789012790943,
+      "mean_train_accuracy": 0.6934506076512035,
+      "rank": 11
+    },
+    {
+      "candidate": 5,
+      "params": {
+        "n_estimators": 100,
+        "min_samples_split": 10,
+        "min_samples_leaf": 5,
+        "max_features": "log2",
+        "max_depth": 40
+      },
+      "mean_cv_accuracy": 0.680925799346852,
+      "std_cv_accuracy": 0.005987879251332925,
+      "mean_train_accuracy": 0.6921974748191233,
+      "rank": 13
+    },
+    {
+      "candidate": 15,
+      "params": {
+        "n_estimators": 500,
+        "min_samples_split": 2,
+        "min_samples_leaf": 1,
+        "max_features": "log2",
+        "max_depth": null
+      },
+      "mean_cv_accuracy": 0.6808688387635756,
+      "std_cv_accuracy": 0.010501090300732282,
+      "mean_train_accuracy": 0.9849245755899182,
+      "rank": 14
+    },
+    {
+      "candidate": 9,
+      "params": {
+        "n_estimators": 500,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_features": 0.5,
+        "max_depth": 10
+      },
+      "mean_cv_accuracy": 0.6808498519024835,
+      "std_cv_accuracy": 0.0165654460131558,
+      "mean_train_accuracy": 0.8994751028514684,
+      "rank": 15
+    },
+    {
+      "candidate": 2,
+      "params": {
+        "n_estimators": 500,
+        "min_samples_split": 2,
+        "min_samples_leaf": 1,
+        "max_features": 0.5,
+        "max_depth": null
+      },
+      "mean_cv_accuracy": 0.6708437761069339,
+      "std_cv_accuracy": 0.004259832509267147,
+      "mean_train_accuracy": 0.9849245755899182,
+      "rank": 16
+    }
+  ]
+}

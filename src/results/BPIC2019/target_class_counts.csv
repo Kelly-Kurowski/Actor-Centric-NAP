@@ -1,0 +1,141 @@
+dataset,prefix_length,target_activity,total_samples,train_samples,test_samples,unseen_in_train
+BPIC2019,100,Record Goods Receipt,115,99,16,False
+BPIC2019,100,Create Purchase Order Item,97,77,20,False
+BPIC2019,100,Create Purchase Requisition Item,43,30,13,False
+BPIC2019,100,Record Invoice Receipt,16,15,1,False
+BPIC2019,100,Change Price,10,7,3,False
+BPIC2019,100,Change Quantity,9,3,6,False
+BPIC2019,100,Clear Invoice,6,6,0,False
+BPIC2019,100,Remove Payment Block,6,5,1,False
+BPIC2019,100,Cancel Goods Receipt,4,4,0,False
+BPIC2019,100,Change Approval for Purchase Order,4,4,0,False
+BPIC2019,100,SRM: Created,3,2,1,False
+BPIC2019,100,Delete Purchase Order Item,3,1,2,False
+BPIC2019,100,Change Delivery Indicator,2,1,1,False
+BPIC2019,100,Vendor creates invoice,1,1,0,False
+BPIC2019,100,Receive Order Confirmation,1,1,0,False
+BPIC2019,100,SRM: Transfer Failed (E.Sys.),1,1,0,False
+BPIC2019,100,SRM: Awaiting Approval,1,1,0,False
+BPIC2019,100,Cancel Invoice Receipt,1,0,1,True
+BPIC2019,150,Record Goods Receipt,106,93,13,False
+BPIC2019,150,Create Purchase Order Item,94,74,20,False
+BPIC2019,150,Create Purchase Requisition Item,32,20,12,False
+BPIC2019,150,Record Invoice Receipt,16,13,3,False
+BPIC2019,150,Change Price,9,5,4,False
+BPIC2019,150,Delete Purchase Order Item,6,6,0,False
+BPIC2019,150,Clear Invoice,5,4,1,False
+BPIC2019,150,Remove Payment Block,5,4,1,False
+BPIC2019,150,Change Approval for Purchase Order,5,3,2,False
+BPIC2019,150,Change Quantity,3,3,0,False
+BPIC2019,150,Cancel Goods Receipt,2,2,0,False
+BPIC2019,150,Cancel Invoice Receipt,2,1,1,False
+BPIC2019,150,Vendor creates invoice,1,1,0,False
+BPIC2019,150,SRM: Change was Transmitted,1,1,0,False
+BPIC2019,150,SRM: Complete,1,0,1,True
+BPIC2019,150,SRM: Awaiting Approval,1,1,0,False
+BPIC2019,150,Update Order Confirmation,1,1,0,False
+BPIC2019,200,Record Goods Receipt,96,81,15,False
+BPIC2019,200,Create Purchase Order Item,89,68,21,False
+BPIC2019,200,Create Purchase Requisition Item,24,17,7,False
+BPIC2019,200,Record Invoice Receipt,15,12,3,False
+BPIC2019,200,Change Price,7,4,3,False
+BPIC2019,200,Remove Payment Block,6,5,1,False
+BPIC2019,200,Clear Invoice,6,5,1,False
+BPIC2019,200,Change Quantity,5,5,0,False
+BPIC2019,200,Change Approval for Purchase Order,5,3,2,False
+BPIC2019,200,Cancel Goods Receipt,4,4,0,False
+BPIC2019,200,Delete Purchase Order Item,2,2,0,False
+BPIC2019,200,Change Delivery Indicator,2,1,1,False
+BPIC2019,200,Vendor creates invoice,1,1,0,False
+BPIC2019,200,SRM: Ordered,1,1,0,False
+BPIC2019,200,Cancel Invoice Receipt,1,1,0,False
+BPIC2019,200,Receive Order Confirmation,1,1,0,False
+BPIC2019,200,Change Storage Location,1,1,0,False
+BPIC2019,300,Record Goods Receipt,83,68,15,False
+BPIC2019,300,Create Purchase Order Item,81,61,20,False
+BPIC2019,300,Create Purchase Requisition Item,19,15,4,False
+BPIC2019,300,Record Invoice Receipt,15,12,3,False
+BPIC2019,300,Change Quantity,9,9,0,False
+BPIC2019,300,Change Price,5,4,1,False
+BPIC2019,300,Clear Invoice,4,2,2,False
+BPIC2019,300,Remove Payment Block,4,3,1,False
+BPIC2019,300,Change Approval for Purchase Order,3,3,0,False
+BPIC2019,300,Cancel Goods Receipt,2,1,1,False
+BPIC2019,300,Delete Purchase Order Item,2,2,0,False
+BPIC2019,300,Vendor creates invoice,1,1,0,False
+BPIC2019,300,Cancel Invoice Receipt,1,1,0,False
+BPIC2019,300,Receive Order Confirmation,1,1,0,False
+BPIC2019,300,Change Storage Location,1,1,0,False
+BPIC2019,400,Record Goods Receipt,80,68,12,False
+BPIC2019,400,Create Purchase Order Item,70,54,16,False
+BPIC2019,400,Create Purchase Requisition Item,19,13,6,False
+BPIC2019,400,Record Invoice Receipt,16,12,4,False
+BPIC2019,400,Remove Payment Block,4,3,1,False
+BPIC2019,400,Change Price,3,3,0,False
+BPIC2019,400,Delete Purchase Order Item,3,3,0,False
+BPIC2019,400,Change Quantity,3,2,1,False
+BPIC2019,400,Change Approval for Purchase Order,3,2,1,False
+BPIC2019,400,Clear Invoice,2,2,0,False
+BPIC2019,400,Cancel Goods Receipt,2,2,0,False
+BPIC2019,400,Record Service Entry Sheet,1,1,0,False
+BPIC2019,400,SRM: Document Completed,1,1,0,False
+BPIC2019,400,Cancel Invoice Receipt,1,1,0,False
+BPIC2019,400,Receive Order Confirmation,1,1,0,False
+BPIC2019,400,Release Purchase Order,1,0,1,True
+BPIC2019,400,Change Storage Location,1,0,1,True
+BPIC2019,500,Record Goods Receipt,72,58,14,False
+BPIC2019,500,Create Purchase Order Item,59,46,13,False
+BPIC2019,500,Record Invoice Receipt,16,13,3,False
+BPIC2019,500,Create Purchase Requisition Item,16,14,2,False
+BPIC2019,500,Change Quantity,5,4,1,False
+BPIC2019,500,Change Price,4,3,1,False
+BPIC2019,500,Clear Invoice,3,2,1,False
+BPIC2019,500,Change Approval for Purchase Order,3,2,1,False
+BPIC2019,500,Remove Payment Block,2,1,1,False
+BPIC2019,500,Change Delivery Indicator,2,2,0,False
+BPIC2019,500,Delete Purchase Order Item,2,2,0,False
+BPIC2019,500,Vendor creates invoice,1,1,0,False
+BPIC2019,500,SRM: In Transfer to Execution Syst.,1,1,0,False
+BPIC2019,500,Cancel Invoice Receipt,1,1,0,False
+BPIC2019,500,Receive Order Confirmation,1,0,1,True
+BPIC2019,500,Change Storage Location,1,1,0,False
+BPIC2019,600,Create Purchase Order Item,67,55,12,False
+BPIC2019,600,Record Goods Receipt,65,52,13,False
+BPIC2019,600,Record Invoice Receipt,15,11,4,False
+BPIC2019,600,Create Purchase Requisition Item,13,10,3,False
+BPIC2019,600,Change Price,4,3,1,False
+BPIC2019,600,Change Quantity,4,3,1,False
+BPIC2019,600,Change Approval for Purchase Order,4,3,1,False
+BPIC2019,600,Remove Payment Block,3,2,1,False
+BPIC2019,600,Clear Invoice,2,1,1,False
+BPIC2019,600,Record Service Entry Sheet,1,1,0,False
+BPIC2019,600,SRM: Awaiting Approval,1,1,0,False
+BPIC2019,600,Cancel Invoice Receipt,1,1,0,False
+BPIC2019,600,Delete Purchase Order Item,1,1,0,False
+BPIC2019,700,Record Goods Receipt,65,53,12,False
+BPIC2019,700,Create Purchase Order Item,55,44,11,False
+BPIC2019,700,Record Invoice Receipt,14,8,6,False
+BPIC2019,700,Create Purchase Requisition Item,11,8,3,False
+BPIC2019,700,Change Quantity,9,9,0,False
+BPIC2019,700,Change Price,4,3,1,False
+BPIC2019,700,Clear Invoice,3,2,1,False
+BPIC2019,700,Remove Payment Block,2,1,1,False
+BPIC2019,700,Delete Purchase Order Item,2,2,0,False
+BPIC2019,700,Change Approval for Purchase Order,2,2,0,False
+BPIC2019,700,Record Service Entry Sheet,1,1,0,False
+BPIC2019,700,Receive Order Confirmation,1,1,0,False
+BPIC2019,700,Cancel Invoice Receipt,1,1,0,False
+BPIC2019,700,Release Purchase Order,1,1,0,False
+BPIC2019,800,Create Purchase Order Item,54,44,10,False
+BPIC2019,800,Record Goods Receipt,53,44,9,False
+BPIC2019,800,Record Invoice Receipt,14,10,4,False
+BPIC2019,800,Create Purchase Requisition Item,9,8,1,False
+BPIC2019,800,Change Quantity,9,7,2,False
+BPIC2019,800,Change Approval for Purchase Order,4,3,1,False
+BPIC2019,800,Remove Payment Block,3,1,2,False
+BPIC2019,800,Change Price,3,2,1,False
+BPIC2019,800,Clear Invoice,2,1,1,False
+BPIC2019,800,Receive Order Confirmation,2,1,1,False
+BPIC2019,800,Delete Purchase Order Item,2,2,0,False
+BPIC2019,800,Change Delivery Indicator,2,2,0,False
+BPIC2019,800,Record Service Entry Sheet,1,1,0,False

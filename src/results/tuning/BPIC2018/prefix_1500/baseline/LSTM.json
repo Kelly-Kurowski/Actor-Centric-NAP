@@ -1,0 +1,24 @@
+{
+  "best": {
+    "params": {
+      "embedding_dim": 32,
+      "hidden_size": 64,
+      "dropout": 0.2,
+      "learning_rate": 0.001,
+      "batch_size": 32
+    },
+    "cv_accuracy": null,
+    "best_index": null,
+    "cv_folds": 0,
+    "cv_strategy": null,
+    "scoring": "accuracy",
+    "tuning_status": "skipped_rare_class",
+    "min_class_count": 1,
+    "max_epochs": 50,
+    "early_stopping_patience": 5,
+    "validation_fraction": 0.15,
+    "best_validation_loss_final_refit": 1.0706993341445923,
+    "used_internal_validation": true
+  },
+  "candidates": []
+}

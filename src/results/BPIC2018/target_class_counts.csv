@@ -1,0 +1,192 @@
+dataset,prefix_length,target_activity,total_samples,train_samples,test_samples,unseen_in_train
+BPIC2018,100,save,53,42,11,False
+BPIC2018,100,finish editing,31,26,5,False
+BPIC2018,100,insert document,18,11,7,False
+BPIC2018,100,check,9,8,1,False
+BPIC2018,100,initialize,8,7,1,False
+BPIC2018,100,decide,7,6,1,False
+BPIC2018,100,begin editing,6,3,3,False
+BPIC2018,100,calculate,6,4,2,False
+BPIC2018,100,finish pre-check,3,3,0,False
+BPIC2018,100,revoke decision,2,2,0,False
+BPIC2018,100,finish preparations,2,2,0,False
+BPIC2018,100,begin payment,2,2,0,False
+BPIC2018,100,mail income,1,1,0,False
+BPIC2018,100,withdraw,1,1,0,False
+BPIC2018,100,take original document,1,1,0,False
+BPIC2018,100,plan,1,1,0,False
+BPIC2018,100,begin preparations,1,1,0,False
+BPIC2018,100,restart editing,1,1,0,False
+BPIC2018,100,performed,1,1,0,False
+BPIC2018,150,save,63,52,11,False
+BPIC2018,150,finish editing,22,14,8,False
+BPIC2018,150,insert document,17,13,4,False
+BPIC2018,150,begin editing,12,10,2,False
+BPIC2018,150,decide,9,9,0,False
+BPIC2018,150,check,8,7,1,False
+BPIC2018,150,initialize,6,6,0,False
+BPIC2018,150,calculate,5,3,2,False
+BPIC2018,150,revoke decision,2,2,0,False
+BPIC2018,150,begin payment,2,1,1,False
+BPIC2018,150,mail valid,1,1,0,False
+BPIC2018,150,performed offline,1,1,0,False
+BPIC2018,150,performed,1,1,0,False
+BPIC2018,150,take original document,1,0,1,True
+BPIC2018,150,finish pre-check,1,0,1,True
+BPIC2018,150,finish preparations,1,1,0,False
+BPIC2018,200,save,56,44,12,False
+BPIC2018,200,finish editing,24,19,5,False
+BPIC2018,200,insert document,22,18,4,False
+BPIC2018,200,initialize,9,7,2,False
+BPIC2018,200,decide,8,8,0,False
+BPIC2018,200,check,8,8,0,False
+BPIC2018,200,calculate,8,2,6,False
+BPIC2018,200,begin editing,4,4,0,False
+BPIC2018,200,finish pre-check,2,2,0,False
+BPIC2018,200,performed,2,2,0,False
+BPIC2018,200,revoke decision,1,1,0,False
+BPIC2018,200,mail income,1,1,0,False
+BPIC2018,200,withdraw,1,0,1,True
+BPIC2018,200,take original document,1,1,0,False
+BPIC2018,200,finish payment,1,1,0,False
+BPIC2018,200,begin payment,1,1,0,False
+BPIC2018,200,prepare external,1,1,0,False
+BPIC2018,400,save,59,42,17,False
+BPIC2018,400,finish editing,18,16,2,False
+BPIC2018,400,calculate,11,10,1,False
+BPIC2018,400,insert document,10,8,2,False
+BPIC2018,400,decide,8,7,1,False
+BPIC2018,400,check,8,6,2,False
+BPIC2018,400,initialize,6,6,0,False
+BPIC2018,400,begin editing,4,4,0,False
+BPIC2018,400,begin preparations,3,2,1,False
+BPIC2018,400,performed,3,2,1,False
+BPIC2018,400,finish pre-check,2,2,0,False
+BPIC2018,400,revoke decision,2,1,1,False
+BPIC2018,400,mail income,1,1,0,False
+BPIC2018,400,performed offline,1,1,0,False
+BPIC2018,400,finish payment,1,1,0,False
+BPIC2018,400,begin payment,1,1,0,False
+BPIC2018,400,plan,1,1,0,False
+BPIC2018,400,begin admissibility check,1,1,0,False
+BPIC2018,400,calculate protocol,1,1,0,False
+BPIC2018,400,finish preparations,1,0,1,True
+BPIC2018,800,save,52,43,9,False
+BPIC2018,800,finish editing,27,19,8,False
+BPIC2018,800,calculate,9,6,3,False
+BPIC2018,800,decide,9,7,2,False
+BPIC2018,800,check,8,5,3,False
+BPIC2018,800,insert document,7,6,1,False
+BPIC2018,800,begin editing,7,6,1,False
+BPIC2018,800,revoke decision,2,2,0,False
+BPIC2018,800,performed offline,2,2,0,False
+BPIC2018,800,performed,2,2,0,False
+BPIC2018,800,initialize,2,2,0,False
+BPIC2018,800,mail valid,1,1,0,False
+BPIC2018,800,begin admissibility check,1,1,0,False
+BPIC2018,800,finish payment,1,1,0,False
+BPIC2018,800,begin payment,1,1,0,False
+BPIC2018,800,plan,1,1,0,False
+BPIC2018,800,begin preparations,1,1,0,False
+BPIC2018,800,check admissibility,1,1,0,False
+BPIC2018,800,prepare offline,1,1,0,False
+BPIC2018,1000,save,55,46,9,False
+BPIC2018,1000,finish editing,21,19,2,False
+BPIC2018,1000,calculate,11,8,3,False
+BPIC2018,1000,decide,9,6,3,False
+BPIC2018,1000,begin editing,8,6,2,False
+BPIC2018,1000,check,6,4,2,False
+BPIC2018,1000,insert document,5,4,1,False
+BPIC2018,1000,initialize,4,3,1,False
+BPIC2018,1000,revoke decision,3,2,1,False
+BPIC2018,1000,performed,2,1,1,False
+BPIC2018,1000,begin payment,2,2,0,False
+BPIC2018,1000,mail income,1,1,0,False
+BPIC2018,1000,check admissibility,1,1,0,False
+BPIC2018,1000,approve,1,0,1,True
+BPIC2018,1000,begin preparations,1,1,0,False
+BPIC2018,1000,prepare offline,1,0,1,True
+BPIC2018,1000,finish preparations,1,1,0,False
+BPIC2018,1200,save,55,39,16,False
+BPIC2018,1200,finish editing,16,14,2,False
+BPIC2018,1200,decide,11,9,2,False
+BPIC2018,1200,calculate,10,9,1,False
+BPIC2018,1200,insert document,9,8,1,False
+BPIC2018,1200,initialize,4,3,1,False
+BPIC2018,1200,begin editing,3,2,1,False
+BPIC2018,1200,check,2,2,0,False
+BPIC2018,1200,finish preparations,2,2,0,False
+BPIC2018,1200,revoke decision,2,2,0,False
+BPIC2018,1200,performed,2,2,0,False
+BPIC2018,1200,begin payment,2,2,0,False
+BPIC2018,1200,finish pre-check,1,1,0,False
+BPIC2018,1200,mail valid,1,1,0,False
+BPIC2018,1200,prepare offline,1,1,0,False
+BPIC2018,1200,performed offline,1,1,0,False
+BPIC2018,1200,approve,1,0,1,True
+BPIC2018,1400,save,58,45,13,False
+BPIC2018,1400,finish editing,19,13,6,False
+BPIC2018,1400,decide,11,10,1,False
+BPIC2018,1400,begin editing,8,6,2,False
+BPIC2018,1400,calculate,4,3,1,False
+BPIC2018,1400,insert document,4,4,0,False
+BPIC2018,1400,check,4,3,1,False
+BPIC2018,1400,performed,3,3,0,False
+BPIC2018,1400,initialize,2,2,0,False
+BPIC2018,1400,mail income,1,1,0,False
+BPIC2018,1400,restart editing,1,1,0,False
+BPIC2018,1400,revoke decision,1,1,0,False
+BPIC2018,1400,abort payment,1,1,0,False
+BPIC2018,1400,begin payment,1,1,0,False
+BPIC2018,1400,prepare external,1,1,0,False
+BPIC2018,1500,save,55,44,11,False
+BPIC2018,1500,finish editing,14,11,3,False
+BPIC2018,1500,decide,9,7,2,False
+BPIC2018,1500,calculate,8,6,2,False
+BPIC2018,1500,begin editing,6,4,2,False
+BPIC2018,1500,initialize,6,3,3,False
+BPIC2018,1500,insert document,5,5,0,False
+BPIC2018,1500,check,3,2,1,False
+BPIC2018,1500,performed,3,3,0,False
+BPIC2018,1500,mail valid,1,1,0,False
+BPIC2018,1500,prepare offline,1,1,0,False
+BPIC2018,1500,revoke decision,1,1,0,False
+BPIC2018,1500,begin preparations,1,1,0,False
+BPIC2018,1500,abort payment,1,1,0,False
+BPIC2018,1500,begin payment,1,1,0,False
+BPIC2018,1500,finish preparations,1,1,0,False
+BPIC2018,1500,remove document,1,1,0,False
+BPIC2018,2000,save,41,34,7,False
+BPIC2018,2000,finish editing,18,14,4,False
+BPIC2018,2000,decide,11,10,1,False
+BPIC2018,2000,calculate,10,7,3,False
+BPIC2018,2000,begin editing,8,5,3,False
+BPIC2018,2000,insert document,7,5,2,False
+BPIC2018,2000,revoke decision,3,2,1,False
+BPIC2018,2000,finish preparations,3,3,0,False
+BPIC2018,2000,performed,2,2,0,False
+BPIC2018,2000,initialize,2,2,0,False
+BPIC2018,2000,mail valid,1,1,0,False
+BPIC2018,2000,begin admissibility check,1,1,0,False
+BPIC2018,2000,abort payment,1,1,0,False
+BPIC2018,2000,begin payment,1,0,1,True
+BPIC2018,2000,prepare external,1,1,0,False
+BPIC2018,2000,check,1,1,0,False
+BPIC2018,2000,performed offline,1,0,1,True
+BPIC2018,2500,save,40,33,7,False
+BPIC2018,2500,finish editing,14,10,4,False
+BPIC2018,2500,calculate,12,8,4,False
+BPIC2018,2500,begin editing,10,7,3,False
+BPIC2018,2500,decide,9,7,2,False
+BPIC2018,2500,initialize,5,4,1,False
+BPIC2018,2500,revoke decision,3,3,0,False
+BPIC2018,2500,insert document,3,3,0,False
+BPIC2018,2500,performed,2,2,0,False
+BPIC2018,2500,begin payment,2,2,0,False
+BPIC2018,2500,mail income,1,0,1,True
+BPIC2018,2500,performed offline,1,1,0,False
+BPIC2018,2500,begin preparations,1,1,0,False
+BPIC2018,2500,finish pre-check,1,1,0,False
+BPIC2018,2500,check admissibility,1,1,0,False
+BPIC2018,2500,plan,1,1,0,False
+BPIC2018,2500,prepare external,1,1,0,False

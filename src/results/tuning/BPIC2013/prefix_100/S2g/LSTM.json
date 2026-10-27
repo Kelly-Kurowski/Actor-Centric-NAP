@@ -1,0 +1,249 @@
+{
+  "best": {
+    "params": {
+      "learning_rate": 0.001,
+      "hidden_size": 128,
+      "embedding_dim": 32,
+      "dropout": 0.1,
+      "batch_size": 32
+    },
+    "cv_accuracy": 0.7043439716312058,
+    "best_index": 1,
+    "cv_folds": 3,
+    "cv_strategy": "StratifiedKFold",
+    "scoring": "accuracy",
+    "tuning_status": "completed",
+    "min_class_count": 20,
+    "max_epochs": 50,
+    "early_stopping_patience": 5,
+    "validation_fraction": 0.15,
+    "best_validation_loss_final_refit": 0.5902539491653442,
+    "used_internal_validation": true
+  },
+  "candidates": [
+    {
+      "candidate": 2,
+      "params": {
+        "learning_rate": 0.001,
+        "hidden_size": 128,
+        "embedding_dim": 32,
+        "dropout": 0.1,
+        "batch_size": 32
+      },
+      "mean_cv_accuracy": 0.7043439716312058,
+      "std_cv_accuracy": 0.014741391088932545,
+      "mean_train_accuracy": 0.7042553191489361,
+      "rank": 1
+    },
+    {
+      "candidate": 4,
+      "params": {
+        "learning_rate": 0.0005,
+        "hidden_size": 128,
+        "embedding_dim": 32,
+        "dropout": 0.2,
+        "batch_size": 64
+      },
+      "mean_cv_accuracy": 0.7043439716312058,
+      "std_cv_accuracy": 0.014741391088932545,
+      "mean_train_accuracy": 0.7042553191489361,
+      "rank": 1
+    },
+    {
+      "candidate": 10,
+      "params": {
+        "learning_rate": 0.0005,
+        "hidden_size": 128,
+        "embedding_dim": 32,
+        "dropout": 0.1,
+        "batch_size": 32
+      },
+      "mean_cv_accuracy": 0.7043439716312058,
+      "std_cv_accuracy": 0.014741391088932545,
+      "mean_train_accuracy": 0.7042553191489361,
+      "rank": 1
+    },
+    {
+      "candidate": 16,
+      "params": {
+        "learning_rate": 0.0005,
+        "hidden_size": 64,
+        "embedding_dim": 64,
+        "dropout": 0.1,
+        "batch_size": 64
+      },
+      "mean_cv_accuracy": 0.7043439716312058,
+      "std_cv_accuracy": 0.014741391088932545,
+      "mean_train_accuracy": 0.697237775289287,
+      "rank": 1
+    },
+    {
+      "candidate": 13,
+      "params": {
+        "learning_rate": 0.001,
+        "hidden_size": 32,
+        "embedding_dim": 16,
+        "dropout": 0.1,
+        "batch_size": 32
+      },
+      "mean_cv_accuracy": 0.6972517730496454,
+      "std_cv_accuracy": 0.006895544851996481,
+      "mean_train_accuracy": 0.7078014184397162,
+      "rank": 5
+    },
+    {
+      "candidate": 15,
+      "params": {
+        "learning_rate": 0.001,
+        "hidden_size": 32,
+        "embedding_dim": 16,
+        "dropout": 0.2,
+        "batch_size": 32
+      },
+      "mean_cv_accuracy": 0.6972517730496454,
+      "std_cv_accuracy": 0.006895544851996481,
+      "mean_train_accuracy": 0.7077640910787607,
+      "rank": 5
+    },
+    {
+      "candidate": 3,
+      "params": {
+        "learning_rate": 0.001,
+        "hidden_size": 128,
+        "embedding_dim": 16,
+        "dropout": 0.1,
+        "batch_size": 32
+      },
+      "mean_cv_accuracy": 0.6901595744680851,
+      "std_cv_accuracy": 0.008887383712661102,
+      "mean_train_accuracy": 0.6867114594998135,
+      "rank": 7
+    },
+    {
+      "candidate": 1,
+      "params": {
+        "learning_rate": 0.0005,
+        "hidden_size": 128,
+        "embedding_dim": 16,
+        "dropout": 0.2,
+        "batch_size": 64
+      },
+      "mean_cv_accuracy": 0.6830673758865249,
+      "std_cv_accuracy": 0.0176527550990602,
+      "mean_train_accuracy": 0.6867114594998135,
+      "rank": 8
+    },
+    {
+      "candidate": 5,
+      "params": {
+        "learning_rate": 0.001,
+        "hidden_size": 64,
+        "embedding_dim": 32,
+        "dropout": 0.1,
+        "batch_size": 64
+      },
+      "mean_cv_accuracy": 0.6830673758865249,
+      "std_cv_accuracy": 0.034885624769416666,
+      "mean_train_accuracy": 0.6937290033594624,
+      "rank": 8
+    },
+    {
+      "candidate": 9,
+      "params": {
+        "learning_rate": 0.0005,
+        "hidden_size": 128,
+        "embedding_dim": 16,
+        "dropout": 0.3,
+        "batch_size": 64
+      },
+      "mean_cv_accuracy": 0.6830673758865249,
+      "std_cv_accuracy": 0.0176527550990602,
+      "mean_train_accuracy": 0.6867114594998135,
+      "rank": 8
+    },
+    {
+      "candidate": 14,
+      "params": {
+        "learning_rate": 0.001,
+        "hidden_size": 64,
+        "embedding_dim": 32,
+        "dropout": 0.2,
+        "batch_size": 64
+      },
+      "mean_cv_accuracy": 0.6830673758865249,
+      "std_cv_accuracy": 0.034885624769416666,
+      "mean_train_accuracy": 0.6937290033594624,
+      "rank": 8
+    },
+    {
+      "candidate": 8,
+      "params": {
+        "learning_rate": 0.0005,
+        "hidden_size": 64,
+        "embedding_dim": 32,
+        "dropout": 0.3,
+        "batch_size": 32
+      },
+      "mean_cv_accuracy": 0.6759751773049646,
+      "std_cv_accuracy": 0.02730294963552214,
+      "mean_train_accuracy": 0.6937290033594624,
+      "rank": 12
+    },
+    {
+      "candidate": 11,
+      "params": {
+        "learning_rate": 0.0005,
+        "hidden_size": 64,
+        "embedding_dim": 32,
+        "dropout": 0.2,
+        "batch_size": 64
+      },
+      "mean_cv_accuracy": 0.6759751773049646,
+      "std_cv_accuracy": 0.02730294963552214,
+      "mean_train_accuracy": 0.6937290033594624,
+      "rank": 12
+    },
+    {
+      "candidate": 12,
+      "params": {
+        "learning_rate": 0.0005,
+        "hidden_size": 32,
+        "embedding_dim": 32,
+        "dropout": 0.2,
+        "batch_size": 64
+      },
+      "mean_cv_accuracy": 0.6759751773049646,
+      "std_cv_accuracy": 0.02730294963552214,
+      "mean_train_accuracy": 0.6936916759985069,
+      "rank": 12
+    },
+    {
+      "candidate": 6,
+      "params": {
+        "learning_rate": 0.0005,
+        "hidden_size": 32,
+        "embedding_dim": 64,
+        "dropout": 0.1,
+        "batch_size": 64
+      },
+      "mean_cv_accuracy": 0.6688829787234042,
+      "std_cv_accuracy": 0.021796614987844392,
+      "mean_train_accuracy": 0.6901829040686823,
+      "rank": 15
+    },
+    {
+      "candidate": 7,
+      "params": {
+        "learning_rate": 0.001,
+        "hidden_size": 32,
+        "embedding_dim": 64,
+        "dropout": 0.2,
+        "batch_size": 32
+      },
+      "mean_cv_accuracy": 0.6688829787234042,
+      "std_cv_accuracy": 0.021796614987844392,
+      "mean_train_accuracy": 0.6901829040686823,
+      "rank": 15
+    }
+  ]
+}

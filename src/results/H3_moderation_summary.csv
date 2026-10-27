@@ -1,0 +1,3 @@
+hypothesis,comparison,expected_slope,n_paired_predictions,n_unique_resources,n_model_prefix_settings,slope,cluster_robust_se,ci95_lower,ci95_upper,p_value_two_sided,direction_matches_hypothesis,better,worse,equal,holm_adjusted_p,hypothesis_supported
+H3a,SCap - S2g,positive,7700,804,195,-0.00864395714462127,0.017981876855079935,-0.04388778815501232,0.026599873865769775,0.6307270059249284,False,342,232,7126,0.6307270059249284,False
+H3b,S2gR - S2g,negative,7700,804,195,-0.027436532082221472,0.01214248724560197,-0.051235369766338294,-0.0036376943981046503,0.0238493215592797,True,167,213,7320,0.0476986431185594,True

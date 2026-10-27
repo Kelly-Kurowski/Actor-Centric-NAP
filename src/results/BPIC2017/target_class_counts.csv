@@ -1,0 +1,178 @@
+dataset,prefix_length,target_activity,total_samples,train_samples,test_samples,unseen_in_train
+BPIC2017,100,W_Complete application,38,32,6,False
+BPIC2017,100,W_Call after offers,27,19,8,False
+BPIC2017,100,W_Validate application,20,14,6,False
+BPIC2017,100,W_Call incomplete files,10,8,2,False
+BPIC2017,100,A_Accepted,7,6,1,False
+BPIC2017,100,O_Created,7,6,1,False
+BPIC2017,100,O_Create Offer,5,5,0,False
+BPIC2017,100,O_Returned,5,4,1,False
+BPIC2017,100,A_Concept,4,3,1,False
+BPIC2017,100,A_Create Application,3,3,0,False
+BPIC2017,100,O_Sent (mail and online),3,2,1,False
+BPIC2017,100,O_Accepted,2,1,1,False
+BPIC2017,100,A_Validating,2,2,0,False
+BPIC2017,100,W_Assess potential fraud,2,2,0,False
+BPIC2017,100,A_Complete,2,1,1,False
+BPIC2017,100,A_Pending,2,2,0,False
+BPIC2017,100,O_Refused,1,1,0,False
+BPIC2017,100,O_Sent (online only),1,1,0,False
+BPIC2017,150,W_Complete application,31,24,7,False
+BPIC2017,150,W_Call after offers,27,22,5,False
+BPIC2017,150,W_Validate application,15,11,4,False
+BPIC2017,150,A_Accepted,10,7,3,False
+BPIC2017,150,W_Call incomplete files,9,8,1,False
+BPIC2017,150,A_Complete,7,6,1,False
+BPIC2017,150,O_Created,7,6,1,False
+BPIC2017,150,O_Sent (mail and online),5,4,1,False
+BPIC2017,150,W_Handle leads,4,4,0,False
+BPIC2017,150,O_Accepted,4,4,0,False
+BPIC2017,150,O_Create Offer,3,3,0,False
+BPIC2017,150,O_Returned,3,1,2,False
+BPIC2017,150,A_Validating,3,2,1,False
+BPIC2017,150,A_Concept,3,3,0,False
+BPIC2017,150,W_Assess potential fraud,2,1,1,False
+BPIC2017,150,A_Create Application,2,1,1,False
+BPIC2017,150,A_Incomplete,1,1,0,False
+BPIC2017,150,A_Pending,1,1,0,False
+BPIC2017,150,A_Denied,1,1,0,False
+BPIC2017,200,W_Complete application,30,26,4,False
+BPIC2017,200,W_Call after offers,23,19,4,False
+BPIC2017,200,W_Validate application,21,17,4,False
+BPIC2017,200,A_Accepted,11,10,1,False
+BPIC2017,200,O_Created,10,7,3,False
+BPIC2017,200,W_Call incomplete files,9,8,1,False
+BPIC2017,200,O_Sent (mail and online),8,7,1,False
+BPIC2017,200,O_Create Offer,6,3,3,False
+BPIC2017,200,A_Validating,4,0,4,True
+BPIC2017,200,O_Returned,4,3,1,False
+BPIC2017,200,A_Complete,4,3,1,False
+BPIC2017,200,W_Handle leads,2,2,0,False
+BPIC2017,200,A_Concept,2,2,0,False
+BPIC2017,200,O_Accepted,1,1,0,False
+BPIC2017,200,A_Pending,1,1,0,False
+BPIC2017,200,W_Assess potential fraud,1,0,1,True
+BPIC2017,200,A_Incomplete,1,1,0,False
+BPIC2017,400,W_Complete application,28,23,5,False
+BPIC2017,400,W_Call after offers,26,20,6,False
+BPIC2017,400,W_Validate application,15,12,3,False
+BPIC2017,400,O_Sent (mail and online),10,9,1,False
+BPIC2017,400,O_Create Offer,8,6,2,False
+BPIC2017,400,O_Created,7,6,1,False
+BPIC2017,400,A_Validating,5,4,1,False
+BPIC2017,400,A_Accepted,5,5,0,False
+BPIC2017,400,A_Pending,4,3,1,False
+BPIC2017,400,O_Returned,4,0,4,True
+BPIC2017,400,A_Incomplete,3,2,1,False
+BPIC2017,400,O_Refused,3,2,1,False
+BPIC2017,400,O_Accepted,3,3,0,False
+BPIC2017,400,W_Call incomplete files,3,3,0,False
+BPIC2017,400,W_Assess potential fraud,3,2,1,False
+BPIC2017,400,A_Complete,3,3,0,False
+BPIC2017,400,A_Create Application,2,2,0,False
+BPIC2017,400,A_Submitted,1,1,0,False
+BPIC2017,400,W_Handle leads,1,1,0,False
+BPIC2017,400,O_Cancelled,1,1,0,False
+BPIC2017,800,W_Complete application,24,20,4,False
+BPIC2017,800,W_Call after offers,17,15,2,False
+BPIC2017,800,W_Validate application,17,10,7,False
+BPIC2017,800,W_Call incomplete files,12,10,2,False
+BPIC2017,800,A_Complete,10,9,1,False
+BPIC2017,800,O_Create Offer,7,3,4,False
+BPIC2017,800,A_Accepted,7,5,2,False
+BPIC2017,800,O_Sent (mail and online),6,5,1,False
+BPIC2017,800,A_Concept,5,3,2,False
+BPIC2017,800,O_Created,5,5,0,False
+BPIC2017,800,A_Validating,4,3,1,False
+BPIC2017,800,O_Returned,4,4,0,False
+BPIC2017,800,O_Accepted,2,2,0,False
+BPIC2017,800,A_Create Application,2,2,0,False
+BPIC2017,800,A_Denied,1,1,0,False
+BPIC2017,800,O_Cancelled,1,1,0,False
+BPIC2017,800,O_Sent (online only),1,1,0,False
+BPIC2017,800,O_Refused,1,1,0,False
+BPIC2017,800,W_Assess potential fraud,1,1,0,False
+BPIC2017,1000,W_Call after offers,28,22,6,False
+BPIC2017,1000,W_Complete application,24,19,5,False
+BPIC2017,1000,W_Validate application,19,13,6,False
+BPIC2017,1000,W_Call incomplete files,9,9,0,False
+BPIC2017,1000,O_Created,9,7,2,False
+BPIC2017,1000,O_Create Offer,8,8,0,False
+BPIC2017,1000,A_Validating,4,2,2,False
+BPIC2017,1000,O_Returned,4,4,0,False
+BPIC2017,1000,A_Accepted,4,3,1,False
+BPIC2017,1000,O_Sent (mail and online),3,3,0,False
+BPIC2017,1000,A_Complete,3,2,1,False
+BPIC2017,1000,A_Concept,2,1,1,False
+BPIC2017,1000,A_Pending,2,2,0,False
+BPIC2017,1000,W_Handle leads,2,1,1,False
+BPIC2017,1000,A_Incomplete,1,1,0,False
+BPIC2017,1000,A_Create Application,1,1,0,False
+BPIC2017,1000,O_Cancelled,1,1,0,False
+BPIC2017,1200,W_Complete application,33,24,9,False
+BPIC2017,1200,W_Validate application,23,19,4,False
+BPIC2017,1200,W_Call after offers,20,16,4,False
+BPIC2017,1200,W_Call incomplete files,7,7,0,False
+BPIC2017,1200,A_Complete,6,5,1,False
+BPIC2017,1200,O_Sent (mail and online),5,4,1,False
+BPIC2017,1200,O_Created,5,5,0,False
+BPIC2017,1200,A_Accepted,4,3,1,False
+BPIC2017,1200,A_Incomplete,3,1,2,False
+BPIC2017,1200,A_Validating,3,3,0,False
+BPIC2017,1200,A_Concept,3,2,1,False
+BPIC2017,1200,O_Create Offer,3,3,0,False
+BPIC2017,1200,O_Accepted,2,2,0,False
+BPIC2017,1200,A_Submitted,1,0,1,True
+BPIC2017,1200,A_Pending,1,1,0,False
+BPIC2017,1200,A_Cancelled,1,0,1,True
+BPIC2017,1200,O_Refused,1,1,0,False
+BPIC2017,1400,W_Validate application,21,18,3,False
+BPIC2017,1400,W_Call after offers,20,15,5,False
+BPIC2017,1400,W_Complete application,17,15,2,False
+BPIC2017,1400,W_Call incomplete files,16,13,3,False
+BPIC2017,1400,A_Accepted,8,7,1,False
+BPIC2017,1400,O_Created,7,6,1,False
+BPIC2017,1400,O_Sent (mail and online),6,4,2,False
+BPIC2017,1400,O_Create Offer,5,4,1,False
+BPIC2017,1400,O_Returned,4,1,3,False
+BPIC2017,1400,A_Incomplete,3,2,1,False
+BPIC2017,1400,O_Cancelled,3,3,0,False
+BPIC2017,1400,A_Create Application,2,2,0,False
+BPIC2017,1400,A_Complete,2,1,1,False
+BPIC2017,1400,W_Handle leads,1,0,1,True
+BPIC2017,1400,A_Cancelled,1,1,0,False
+BPIC2017,1400,O_Sent (online only),1,1,0,False
+BPIC2017,1500,W_Complete application,23,18,5,False
+BPIC2017,1500,W_Validate application,20,15,5,False
+BPIC2017,1500,W_Call after offers,14,12,2,False
+BPIC2017,1500,W_Call incomplete files,8,7,1,False
+BPIC2017,1500,A_Accepted,7,4,3,False
+BPIC2017,1500,A_Validating,5,4,1,False
+BPIC2017,1500,O_Create Offer,5,4,1,False
+BPIC2017,1500,O_Created,5,4,1,False
+BPIC2017,1500,A_Concept,4,4,0,False
+BPIC2017,1500,O_Sent (mail and online),4,3,1,False
+BPIC2017,1500,W_Handle leads,3,2,1,False
+BPIC2017,1500,A_Incomplete,3,3,0,False
+BPIC2017,1500,O_Returned,3,3,0,False
+BPIC2017,1500,O_Sent (online only),2,1,1,False
+BPIC2017,1500,A_Complete,2,1,1,False
+BPIC2017,1500,O_Cancelled,2,2,0,False
+BPIC2017,1500,O_Accepted,1,1,0,False
+BPIC2017,1500,A_Pending,1,1,0,False
+BPIC2017,1500,O_Refused,1,1,0,False
+BPIC2017,1500,A_Create Application,1,1,0,False
+BPIC2017,2000,W_Call after offers,24,18,6,False
+BPIC2017,2000,W_Complete application,15,12,3,False
+BPIC2017,2000,W_Call incomplete files,15,13,2,False
+BPIC2017,2000,W_Validate application,13,9,4,False
+BPIC2017,2000,O_Sent (mail and online),8,8,0,False
+BPIC2017,2000,A_Accepted,6,6,0,False
+BPIC2017,2000,O_Create Offer,5,4,1,False
+BPIC2017,2000,O_Accepted,4,1,3,False
+BPIC2017,2000,A_Validating,4,3,1,False
+BPIC2017,2000,O_Created,4,3,1,False
+BPIC2017,2000,O_Returned,2,2,0,False
+BPIC2017,2000,A_Pending,2,2,0,False
+BPIC2017,2000,A_Incomplete,1,1,0,False
+BPIC2017,2000,O_Cancelled,1,1,0,False

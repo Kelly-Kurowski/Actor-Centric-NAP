@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Research data
+data/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
